@@ -1,0 +1,278 @@
+[13.04.2020 | 09:48:54] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| ьфьф123
+[13.04.2020 | 09:48:58] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| mama123
+[13.04.2020 | 09:49:05] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[13.04.2020 | 09:49:06] Ivan_Raketa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[13.04.2020 | 09:49:07] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[13.04.2020 | 09:49:16] Ivan_Raketa(0)[127.0.0.1] cmd tpcor
+[13.04.2020 | 09:49:21] Ivan_Raketa(0)[127.0.0.1] cmd tpcor
+[13.04.2020 | 09:49:30] Ivan_Raketa(0)[127.0.0.1] cmd tpcor
+[13.04.2020 | 09:49:40] Ivan_Raketa(0)[127.0.0.1] cmd tpcor
+[13.04.2020 | 09:49:49] Ivan_Raketa(0)[127.0.0.1] cmd tpcor
+[13.04.2020 | 09:49:59] Ivan_Raketa(0)[127.0.0.1] cmd tpcor
+[13.04.2020 | 09:50:06] Ivan_Raketa(0)[127.0.0.1] cmd tpcor
+[13.04.2020 | 09:59:22] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| mama123
+[13.04.2020 | 09:59:25] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[13.04.2020 | 09:59:28] Ivan_Raketa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[13.04.2020 | 09:59:28] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[13.04.2020 | 10:00:12] Ivan_Raketa(0)[127.0.0.1] dialog 51 | 1 | list -1| 
+[13.04.2020 | 10:00:13] Ivan_Raketa(0)[127.0.0.1] dialog 51 | 1 | list -1| 
+[13.04.2020 | 10:00:13] Ivan_Raketa(0)[127.0.0.1] dialog 51 | 1 | list -1| 
+[13.04.2020 | 10:00:13] Ivan_Raketa(0)[127.0.0.1] dialog 51 | 1 | list -1| 
+[13.04.2020 | 10:00:14] Ivan_Raketa(0)[127.0.0.1] dialog 51 | 1 | list -1| 
+[13.04.2020 | 10:00:14] Ivan_Raketa(0)[127.0.0.1] dialog 51 | 1 | list -1| 
+[13.04.2020 | 10:00:14] Ivan_Raketa(0)[127.0.0.1] dialog 51 | 1 | list -1| 
+[13.04.2020 | 10:00:14] Ivan_Raketa(0)[127.0.0.1] dialog 51 | 1 | list -1| 
+[13.04.2020 | 10:00:14] Ivan_Raketa(0)[127.0.0.1] dialog 51 | 1 | list -1| 
+[13.04.2020 | 10:00:14] Ivan_Raketa(0)[127.0.0.1] dialog 51 | 1 | list -1| 
+[13.04.2020 | 10:00:15] Ivan_Raketa(0)[127.0.0.1] dialog 51 | 1 | list -1| 
+[13.04.2020 | 10:00:15] Ivan_Raketa(0)[127.0.0.1] dialog 51 | 1 | list -1| 
+[13.04.2020 | 10:00:15] Ivan_Raketa(0)[127.0.0.1] dialog 51 | 1 | list -1| 
+[13.04.2020 | 10:00:15] Ivan_Raketa(0)[127.0.0.1] dialog 51 | 1 | list -1| 
+[13.04.2020 | 10:00:15] Ivan_Raketa(0)[127.0.0.1] dialog 51 | 1 | list -1| 
+[13.04.2020 | 10:00:15] Ivan_Raketa(0)[127.0.0.1] dialog 51 | 1 | list -1| 
+[13.04.2020 | 10:00:29] Ivan_Raketa(0)[127.0.0.1] cmd makeleader
+[13.04.2020 | 10:00:32] Ivan_Raketa(0)[127.0.0.1] dialog 26 | 1 | list 8| Лицензеры
+[13.04.2020 | 10:00:36] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[13.04.2020 | 10:00:38] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[13.04.2020 | 10:00:39] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[13.04.2020 | 10:00:39] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[13.04.2020 | 10:00:40] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[13.04.2020 | 10:00:45] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[13.04.2020 | 10:00:48] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[13.04.2020 | 10:02:43] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| mama123
+[13.04.2020 | 10:02:48] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[13.04.2020 | 10:02:51] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[13.04.2020 | 10:02:53] Ivan_Raketa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[13.04.2020 | 10:02:54] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[13.04.2020 | 10:03:05] Ivan_Raketa(0)[127.0.0.1] cmd tpcor
+[13.04.2020 | 10:03:07] Ivan_Raketa(0)[127.0.0.1] cmd tpcor
+[13.04.2020 | 10:03:08] Ivan_Raketa(0)[127.0.0.1] cmd tpcor
+[13.04.2020 | 10:03:10] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[13.04.2020 | 10:03:12] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[13.04.2020 | 10:03:13] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[13.04.2020 | 10:03:15] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[13.04.2020 | 10:03:18] Ivan_Raketa(0)[127.0.0.1] cmd tpcor
+[13.04.2020 | 10:03:19] Ivan_Raketa(0)[127.0.0.1] cmd tpcor
+[13.04.2020 | 10:03:20] Ivan_Raketa(0)[127.0.0.1] cmd tpcor
+[13.04.2020 | 10:04:47] Ivan_Raketa(0)[127.0.0.1] cmd tpcor
+[13.04.2020 | 10:04:49] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[13.04.2020 | 10:04:50] Ivan_Raketa(0)[127.0.0.1] cmd tpcor
+[13.04.2020 | 10:07:16] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| mama123
+[13.04.2020 | 10:07:27] Ivan_Raketa(0)[127.0.0.1] dialog 581 | 1 | list 0| - Переодеться
+[13.04.2020 | 10:07:27] Ivan_Raketa(0)[127.0.0.1] dialog 7551 | 1 | list 0| - Переодется в рабочую форму.
+[13.04.2020 | 10:07:35] Ivan_Raketa(0)[127.0.0.1] cmd help\
+[13.04.2020 | 10:07:38] Ivan_Raketa(0)[127.0.0.1] cmd help
+[13.04.2020 | 10:07:39] Ivan_Raketa(0)[127.0.0.1] dialog 64 | 1 | list 3| [CMD] Организация
+[13.04.2020 | 10:07:41] Ivan_Raketa(0)[127.0.0.1] dialog 184 | 0 | list -1| 
+[13.04.2020 | 10:07:46] Ivan_Raketa(0)[127.0.0.1] cmd givelicense
+[13.04.2020 | 10:07:48] Ivan_Raketa(0)[127.0.0.1] cmd givelicense
+[13.04.2020 | 10:07:50] Ivan_Raketa(0)[127.0.0.1] dialog 6 | 1 | list 0| На вождение авто
+[13.04.2020 | 10:08:27] Ivan_Raketa(0)[127.0.0.1] cmd plveh
+[13.04.2020 | 10:08:29] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[13.04.2020 | 10:08:31] Ivan_Raketa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[13.04.2020 | 10:08:32] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[13.04.2020 | 10:08:33] Ivan_Raketa(0)[127.0.0.1] cmd plveh
+[13.04.2020 | 10:10:57] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| mama123
+[13.04.2020 | 10:11:05] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[13.04.2020 | 10:11:06] Ivan_Raketa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[13.04.2020 | 10:11:06] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[13.04.2020 | 10:11:28] Ivan_Raketa(0)[127.0.0.1] cmd plveh
+[13.04.2020 | 10:15:29] Ivan_Raketa(0)[127.0.0.1] cmd plveh
+[13.04.2020 | 10:30:50] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| mama123
+[13.04.2020 | 10:30:56] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[13.04.2020 | 10:30:57] Ivan_Raketa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[13.04.2020 | 10:30:57] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[13.04.2020 | 10:31:44] Ivan_Raketa(0)[127.0.0.1] cmd plveh
+[13.04.2020 | 10:36:59] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| mma123
+[13.04.2020 | 10:37:06] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| ьфьф123
+[13.04.2020 | 10:37:11] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| 
+[13.04.2020 | 10:37:14] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| mama123
+[13.04.2020 | 10:37:38] Ivan_Raketa(0)[127.0.0.1] dialog 48 | 1 | list -1| 
+[13.04.2020 | 10:37:38] Ivan_Raketa(0)[127.0.0.1] dialog 49 | 1 | list -1| 
+[13.04.2020 | 10:37:40] Ivan_Raketa(0)[127.0.0.1] dialog 70 | 1 | list 2| Только в экстренных ситуациях
+[13.04.2020 | 10:37:42] Ivan_Raketa(0)[127.0.0.1] dialog 70 | 1 | list 0| Снизить скорость и включить фары
+[13.04.2020 | 10:37:44] Ivan_Raketa(0)[127.0.0.1] dialog 70 | 1 | list 1| 120 Км/ч
+[13.04.2020 | 10:37:45] Ivan_Raketa(0)[127.0.0.1] dialog 70 | 1 | list 1| 60 Км/ч
+[13.04.2020 | 10:38:17] Ivan_Raketa(0)[127.0.0.1] dialog 0 | 1 | list -1| 
+[13.04.2020 | 10:39:54] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[13.04.2020 | 10:39:56] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[13.04.2020 | 10:39:57] Ivan_Raketa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[13.04.2020 | 10:39:58] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[13.04.2020 | 10:39:59] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[13.04.2020 | 10:40:03] Ivan_Raketa(0)[127.0.0.1] dialog 48 | 1 | list -1| 
+[13.04.2020 | 10:40:04] Ivan_Raketa(0)[127.0.0.1] dialog 49 | 1 | list -1| 
+[13.04.2020 | 10:40:07] Ivan_Raketa(0)[127.0.0.1] dialog 70 | 1 | list 0| Снизить скорость и включить фары
+[13.04.2020 | 10:40:08] Ivan_Raketa(0)[127.0.0.1] dialog 70 | 1 | list 2| Только в экстренных ситуациях
+[13.04.2020 | 10:40:09] Ivan_Raketa(0)[127.0.0.1] dialog 70 | 1 | list 1| 60 Км/ч
+[13.04.2020 | 10:40:10] Ivan_Raketa(0)[127.0.0.1] dialog 70 | 1 | list 1| 120 Км/ч
+[13.04.2020 | 10:40:37] Ivan_Raketa(0)[127.0.0.1] dialog 0 | 1 | list -1| 
+[13.04.2020 | 10:42:23] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[13.04.2020 | 10:44:48] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| ЬФЬФ123
+[13.04.2020 | 10:44:51] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| MAMA123
+[13.04.2020 | 10:44:55] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| 
+[13.04.2020 | 10:44:57] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| mama123
+[13.04.2020 | 10:45:03] Ivan_Raketa(0)[127.0.0.1] dialog 48 | 1 | list -1| 
+[13.04.2020 | 10:45:03] Ivan_Raketa(0)[127.0.0.1] dialog 49 | 1 | list -1| 
+[13.04.2020 | 10:45:05] Ivan_Raketa(0)[127.0.0.1] dialog 70 | 1 | list 2| Только в экстренных ситуациях
+[13.04.2020 | 10:45:07] Ivan_Raketa(0)[127.0.0.1] dialog 70 | 1 | list 0| Снизить скорость и включить фары
+[13.04.2020 | 10:45:08] Ivan_Raketa(0)[127.0.0.1] dialog 70 | 1 | list 1| 120 Км/ч
+[13.04.2020 | 10:45:08] Ivan_Raketa(0)[127.0.0.1] dialog 70 | 1 | list 1| 60 Км/ч
+[13.04.2020 | 10:45:35] Ivan_Raketa(0)[127.0.0.1] dialog 0 | 1 | list -1| 
+[13.04.2020 | 13:05:18] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| mama123
+[13.04.2020 | 13:05:23] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[13.04.2020 | 13:05:24] Ivan_Raketa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[13.04.2020 | 13:05:25] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[13.04.2020 | 13:05:45] Ivan_Raketa(0)[127.0.0.1] cmd jp
+[13.04.2020 | 13:06:57] Ivan_Raketa(0)[127.0.0.1] cmd leaders
+[13.04.2020 | 13:07:00] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[13.04.2020 | 13:07:02] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 1 | list 8| [9] Все лидеры[7]
+[13.04.2020 | 13:07:04] Ivan_Raketa(0)[127.0.0.1] dialog 115 | 1 | list 0| Полиция ЛС: 		Ivan_Raketa
+[13.04.2020 | 13:07:07] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[13.04.2020 | 13:07:09] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 1 | list 8| [9] Все лидеры[7]
+[13.04.2020 | 13:07:10] Ivan_Raketa(0)[127.0.0.1] dialog 115 | 1 | list 3| Полиция СФ: 		Ivan_Raketa
+[13.04.2020 | 13:07:11] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[13.04.2020 | 13:07:14] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 1 | list 8| [9] Все лидеры[7]
+[13.04.2020 | 13:07:17] Ivan_Raketa(0)[127.0.0.1] dialog 115 | 1 | list 5| Правительство: 		Ivan_Raketa
+[13.04.2020 | 13:07:18] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[13.04.2020 | 13:07:20] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 1 | list 8| [9] Все лидеры[7]
+[13.04.2020 | 13:07:22] Ivan_Raketa(0)[127.0.0.1] dialog 115 | 1 | list 8| Лицензеры: 		Ivan_Raketa
+[13.04.2020 | 13:07:24] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[13.04.2020 | 13:07:26] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 1 | list 8| [9] Все лидеры[7]
+[13.04.2020 | 13:07:29] Ivan_Raketa(0)[127.0.0.1] dialog 115 | 1 | list 20| Центральный Банк: 		Mark_Braun
+[13.04.2020 | 13:07:30] Ivan_Raketa(0)[127.0.0.1] dialog 206 | 1 | list -1| 
+[13.04.2020 | 13:07:53] Ivan_Raketa(0)[127.0.0.1] cmd plveh
+[13.04.2020 | 13:07:59] Ivan_Raketa(0)[127.0.0.1] cmd plveh
+[13.04.2020 | 13:08:06] Ivan_Raketa(0)[127.0.0.1] cmd plveh
+[13.04.2020 | 13:10:18] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| mama123
+[13.04.2020 | 13:10:21] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[13.04.2020 | 13:10:25] Ivan_Raketa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[13.04.2020 | 13:10:25] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[13.04.2020 | 13:10:39] Ivan_Raketa(0)[127.0.0.1] cmd tpcor
+[13.04.2020 | 13:11:00] Ivan_Raketa(0)[127.0.0.1] dialog 134 | 1 | list 0| [1] Устройство на работу
+[13.04.2020 | 13:11:05] Ivan_Raketa(0)[127.0.0.1] dialog 233 | 1 | list 1| Таксист		2-ой уровень
+[13.04.2020 | 13:11:06] Ivan_Raketa(0)[127.0.0.1] dialog 28 | 1 | list -1| 
+[13.04.2020 | 13:11:07] Ivan_Raketa(0)[127.0.0.1] dialog 1234 | 1 | list -1| 
+[13.04.2020 | 13:11:13] Ivan_Raketa(0)[127.0.0.1] cmd tpcor
+[13.04.2020 | 13:11:20] Ivan_Raketa(0)[127.0.0.1] cmd slap
+[13.04.2020 | 13:11:25] Ivan_Raketa(0)[127.0.0.1] cmd spcars
+[13.04.2020 | 13:11:27] Ivan_Raketa(0)[127.0.0.1] cmd spcars
+[13.04.2020 | 13:11:36] Ivan_Raketa(0)[127.0.0.1] dialog 281 | 1 | list -1| 
+[13.04.2020 | 13:11:54] Ivan_Raketa(0)[127.0.0.1] dialog 56 | 1 | list -1| 70,Такси
+[13.04.2020 | 13:13:13] Ivan_Raketa(0)[127.0.0.1] cmd spcars
+[13.04.2020 | 13:13:38] Ivan_Raketa(0)[127.0.0.1] dialog 281 | 1 | list -1| 
+[13.04.2020 | 13:13:55] Ivan_Raketa(0)[127.0.0.1] dialog 56 | 0 | list -1| 
+[13.04.2020 | 13:24:22] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| mama123
+[13.04.2020 | 13:24:28] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[13.04.2020 | 13:24:28] Ivan_Raketa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[13.04.2020 | 13:24:28] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[13.04.2020 | 13:24:39] Ivan_Raketa(0)[127.0.0.1] cmd tpcor
+[13.04.2020 | 13:24:49] Ivan_Raketa(0)[127.0.0.1] cmd plveh
+[13.04.2020 | 13:28:12] Ivan_Raketa(0)[127.0.0.1] cmd plveh
+[13.04.2020 | 13:30:45] Ivan_Raketa(0)[127.0.0.1] cmd jp
+[13.04.2020 | 13:39:17] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| mama123
+[13.04.2020 | 13:39:21] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[13.04.2020 | 13:39:23] Ivan_Raketa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[13.04.2020 | 13:39:24] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[13.04.2020 | 13:39:47] Ivan_Raketa(0)[127.0.0.1] cmd /jp
+[13.04.2020 | 13:39:51] Ivan_Raketa(0)[127.0.0.1] cmd jp
+[13.04.2020 | 13:40:17] Ivan_Raketa(0)[127.0.0.1] cmd jp
+[13.04.2020 | 13:40:39] Ivan_Raketa(0)[127.0.0.1] cmd gotaxi
+[13.04.2020 | 13:41:16] Ivan_Raketa(0)[127.0.0.1] cmd jp
+[13.04.2020 | 13:41:44] Ivan_Raketa(0)[127.0.0.1] cmd setstat
+[13.04.2020 | 13:41:46] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[13.04.2020 | 13:41:58] Ivan_Raketa(0)[127.0.0.1] cmd setstat
+[13.04.2020 | 13:42:00] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[13.04.2020 | 13:42:04] Ivan_Raketa(0)[127.0.0.1] cmd setstat
+[13.04.2020 | 13:42:06] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[13.04.2020 | 13:42:13] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[13.04.2020 | 13:42:23] Ivan_Raketa(0)[127.0.0.1] cmd setstat
+[13.04.2020 | 13:42:26] Ivan_Raketa(0)[127.0.0.1] cmd setstat
+[13.04.2020 | 13:42:28] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[13.04.2020 | 13:42:39] Ivan_Raketa(0)[127.0.0.1] cmd setstat
+[13.04.2020 | 13:42:41] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[13.04.2020 | 13:42:56] Ivan_Raketa(0)[127.0.0.1] cmd setstat
+[13.04.2020 | 13:42:58] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[13.04.2020 | 13:43:04] Ivan_Raketa(0)[127.0.0.1] cmd setstat
+[13.04.2020 | 13:43:06] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[13.04.2020 | 13:43:18] Ivan_Raketa(0)[127.0.0.1] cmd setstat
+[13.04.2020 | 13:43:20] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[13.04.2020 | 13:43:26] Ivan_Raketa(0)[127.0.0.1] cmd setstat
+[13.04.2020 | 13:43:28] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[13.04.2020 | 13:43:39] Ivan_Raketa(0)[127.0.0.1] cmd setstat
+[13.04.2020 | 13:43:40] Ivan_Raketa(0)[127.0.0.1] cmd spaw
+[13.04.2020 | 13:43:41] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[13.04.2020 | 13:44:14] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[13.04.2020 | 13:45:40] Ivan_Raketa(0)[127.0.0.1] cmd jp
+[13.04.2020 | 13:45:59] Ivan_Raketa(0)[127.0.0.1] cmd addbiz
+[13.04.2020 | 13:46:10] Ivan_Raketa(0)[127.0.0.1] dialog 9321 | 0 | list 8| Тюнинг салон
+[13.04.2020 | 13:46:16] Ivan_Raketa(0)[127.0.0.1] cmd addbiz
+[13.04.2020 | 13:46:17] Ivan_Raketa(0)[127.0.0.1] dialog 9321 | 1 | list 2| Магазин 'АЗС' 
+[13.04.2020 | 13:47:54] Eu_Isloh(0)[127.0.0.1] dialog 170 | 1 | list -1| mama123
+[13.04.2020 | 13:47:58] Eu_Isloh(0)[127.0.0.1] dialog 170 | 1 | list -1| 
+[13.04.2020 | 13:48:05] Eu_Isloh(0)[127.0.0.1] dialog 170 | 1 | list -1| Vania_Vno
+[13.04.2020 | 13:48:07] Vania_Vno(0)[127.0.0.1] dialog 1 | 1 | list -1| mama123
+[13.04.2020 | 13:48:08] Vania_Vno(0)[127.0.0.1] dialog 1 | 1 | list 0| Мужчина
+[13.04.2020 | 13:48:08] Vania_Vno(0)[127.0.0.1] dialog 1 | 1 | list 0| Светлый
+[13.04.2020 | 13:48:08] Vania_Vno(0)[127.0.0.1] dialog 1 | 1 | list 0| Вкладка 'Hosted'
+[13.04.2020 | 13:48:23] Vania_Vno(0)[127.0.0.1] dialog 234 | 0 | list -1| 
+[13.04.2020 | 17:12:23] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| mama123
+[13.04.2020 | 17:12:35] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[13.04.2020 | 17:12:37] Ivan_Raketa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[13.04.2020 | 17:12:37] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[13.04.2020 | 17:12:48] Ivan_Raketa(0)[127.0.0.1] cmd jp
+[13.04.2020 | 17:13:55] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[13.04.2020 | 17:14:28] Ivan_Raketa(0)[127.0.0.1] cmd jp
+[13.04.2020 | 17:14:31] Ivan_Raketa(0)[127.0.0.1] cmd plveh
+[13.04.2020 | 17:14:39] Ivan_Raketa(0)[127.0.0.1] cmd plveh
+[13.04.2020 | 17:14:41] Ivan_Raketa(0)[127.0.0.1] cmd plveh
+[13.04.2020 | 17:14:42] Ivan_Raketa(0)[127.0.0.1] cmd plveh
+[13.04.2020 | 17:15:11] Ivan_Raketa(0)[127.0.0.1] dialog 230 | 0 | list -1| 
+[13.04.2020 | 17:15:13] Ivan_Raketa(0)[127.0.0.1] cmd plveh
+[13.04.2020 | 17:55:12] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| mama123
+[13.04.2020 | 17:55:15] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[13.04.2020 | 17:55:15] Ivan_Raketa(0)[127.0.0.1] dialog 211 | 1 | list -1| 842
+[13.04.2020 | 17:55:20] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[13.04.2020 | 17:55:21] Ivan_Raketa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[13.04.2020 | 17:55:21] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[13.04.2020 | 17:55:37] Ivan_Raketa(0)[127.0.0.1] cmd jp
+[13.04.2020 | 18:15:19] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| ьфьф123
+[13.04.2020 | 18:15:23] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| MAMA123
+[13.04.2020 | 18:15:26] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| 
+[13.04.2020 | 18:15:31] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| mama123
+[13.04.2020 | 18:15:33] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[13.04.2020 | 18:15:36] Ivan_Raketa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[13.04.2020 | 18:15:36] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[13.04.2020 | 18:50:28] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| ьфьф123
+[13.04.2020 | 18:50:31] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| mama123
+[13.04.2020 | 18:56:28] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| ьфьф123
+[13.04.2020 | 18:56:32] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| mama123
+[13.04.2020 | 19:18:09] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| ьфьф12
+[13.04.2020 | 19:18:11] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| ьфьф123
+[13.04.2020 | 19:18:14] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| 
+[13.04.2020 | 19:18:17] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| mama123
+[13.04.2020 | 19:18:24] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[13.04.2020 | 19:18:26] Ivan_Raketa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[13.04.2020 | 19:18:26] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[13.04.2020 | 19:49:07] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| ьфьф123
+[13.04.2020 | 19:49:10] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| mama123
+[13.04.2020 | 19:50:00] Ivan_Raketa(0)[127.0.0.1] cmd plveh
+[13.04.2020 | 19:50:03] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[13.04.2020 | 19:50:04] Ivan_Raketa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[13.04.2020 | 19:50:04] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[13.04.2020 | 19:50:06] Ivan_Raketa(0)[127.0.0.1] cmd plveh
+[13.04.2020 | 19:55:44] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| mama123
+[13.04.2020 | 19:56:02] Ivan_Raketa(0)[127.0.0.1] dialog 134 | 1 | list 0| [1] Устройство на работу
+[13.04.2020 | 19:56:07] Ivan_Raketa(0)[127.0.0.1] dialog 233 | 1 | list 0| Механик		3-ий уровень
+[13.04.2020 | 19:56:07] Ivan_Raketa(0)[127.0.0.1] dialog 28 | 1 | list -1| 
+[13.04.2020 | 19:56:08] Ivan_Raketa(0)[127.0.0.1] dialog 1234 | 1 | list -1| 
+[13.04.2020 | 19:56:12] Ivan_Raketa(0)[127.0.0.1] dialog 134 | 1 | list 2| [3] Улица
+[13.04.2020 | 19:56:20] Ivan_Raketa(0)[127.0.0.1] cmd j
+[13.04.2020 | 19:56:22] Ivan_Raketa(0)[127.0.0.1] cmd jp
+[13.04.2020 | 19:56:24] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[13.04.2020 | 19:56:25] Ivan_Raketa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[13.04.2020 | 19:56:25] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[13.04.2020 | 19:56:28] Ivan_Raketa(0)[127.0.0.1] cmd jp
+[13.04.2020 | 19:56:46] Ivan_Raketa(0)[127.0.0.1] dialog 661 | 1 | list -1| 
+[13.04.2020 | 19:56:49] Ivan_Raketa(0)[127.0.0.1] dialog 381 | 1 | list 0| 1. Отремонтировать авто
+[13.04.2020 | 19:56:59] Ivan_Raketa(0)[127.0.0.1] dialog 281 | 1 | list -1| 
+[13.04.2020 | 19:57:17] Ivan_Raketa(0)[127.0.0.1] cmd q/q

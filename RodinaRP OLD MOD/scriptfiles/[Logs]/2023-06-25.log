@@ -1,0 +1,102 @@
+[25.06.2023 | 00:23:44] Valentin_Dobrow(3)[127.0.0.1] dialog 1 | 1 | list -1| 28032009
+[25.06.2023 | 00:23:45] Valentin_Dobrow(3)[127.0.0.1] dialog 1 | 1 | list 0| Мужчина
+[25.06.2023 | 00:23:46] Valentin_Dobrow(3)[127.0.0.1] dialog 1 | 1 | list 0| Светлый
+[25.06.2023 | 00:23:47] Valentin_Dobrow(3)[127.0.0.1] dialog 1 | 1 | list 0| Вкладка 'Hosted'
+[25.06.2023 | 00:23:52] Valentin_Dobrow(3)[127.0.0.1] dialog 234 | 0 | list -1| 
+[25.06.2023 | 00:24:08] Valentin_Dobrow(3)[127.0.0.1] dialog 7681 | 1 | list 1| [Важно]Задания
+[25.06.2023 | 00:25:04] Valentin_Dobrow(3)[127.0.0.1] dialog 7971 | 1 | list 0| Сделать паспорт [Сюжет] [Доступен]
+[25.06.2023 | 00:25:05] Valentin_Dobrow(3)[127.0.0.1] dialog 7972 | 0 | list -1| 
+[25.06.2023 | 00:25:09] Valentin_Dobrow(3)[127.0.0.1] cmd apanel
+[25.06.2023 | 00:28:40] Valentin_Dobrow(3)[127.0.0.1] dialog 2 | 1 | list -1| 28032009
+[25.06.2023 | 00:28:46] Valentin_Dobrow(3)[127.0.0.1] cmd apanel
+[25.06.2023 | 00:28:56] Valentin_Dobrow(3)[127.0.0.1] dialog 211 | 1 | list -1| 1111
+[25.06.2023 | 00:29:00] Valentin_Dobrow(3)[127.0.0.1] dialog 265 | 1 | list 23| [23] Перезапустить поезда[6]
+[25.06.2023 | 00:29:40] Valentin_Dobrow(3)[127.0.0.1] cmd apanel
+[25.06.2023 | 00:29:44] Valentin_Dobrow(3)[127.0.0.1] dialog 265 | 1 | list 25| [25] Вайп меню[8]
+[25.06.2023 | 00:29:45] Valentin_Dobrow(3)[127.0.0.1] dialog 1744 | 0 | list 0| Вайп домов
+[25.06.2023 | 00:29:52] Valentin_Dobrow(3)[127.0.0.1] cmd veh
+[25.06.2023 | 00:29:59] Valentin_Dobrow(3)[127.0.0.1] cmd veh
+[25.06.2023 | 00:30:06] Valentin_Dobrow(3)[127.0.0.1] cmd veh
+[25.06.2023 | 00:30:09] Valentin_Dobrow(3)[127.0.0.1] cmd veh
+[25.06.2023 | 00:30:13] Valentin_Dobrow(3)[127.0.0.1] cmd agl
+[25.06.2023 | 00:30:14] Valentin_Dobrow(3)[127.0.0.1] cmd agl
+[25.06.2023 | 00:30:16] Valentin_Dobrow(3)[127.0.0.1] cmd agl
+[25.06.2023 | 00:30:18] Valentin_Dobrow(3)[127.0.0.1] cmd agl
+[25.06.2023 | 00:34:08] Valentin_Dobrow(3)[127.0.0.1] cmd setleader
+[25.06.2023 | 00:34:11] Valentin_Dobrow(3)[127.0.0.1] cmd leader
+[25.06.2023 | 00:34:14] Valentin_Dobrow(3)[127.0.0.1] cmd makeleader
+[25.06.2023 | 00:34:16] Valentin_Dobrow(3)[127.0.0.1] cmd makeleader
+[25.06.2023 | 00:34:16] Valentin_Dobrow(3)[127.0.0.1] dialog 26 | 0 | list 0| Полиция ЛС
+[25.06.2023 | 00:34:17] Valentin_Dobrow(3)[127.0.0.1] cmd makeleader
+[25.06.2023 | 00:34:20] Valentin_Dobrow(3)[127.0.0.1] dialog 26 | 1 | list 0| Полиция ЛС
+[25.06.2023 | 00:34:22] Valentin_Dobrow(3)[127.0.0.1] dialog 581 | 1 | list 0| - Переодеться
+[25.06.2023 | 00:34:22] Valentin_Dobrow(3)[127.0.0.1] dialog 7551 | 1 | list 0| - Переодется в рабочую форму.
+[25.06.2023 | 00:35:16] Valentin_Dobrow(3)[127.0.0.1] cmd open
+[25.06.2023 | 00:35:20] Valentin_Dobrow(3)[127.0.0.1] cmd tpcar
+[25.06.2023 | 00:35:24] Valentin_Dobrow(3)[127.0.0.1] cmd getherecar
+[25.06.2023 | 00:35:28] Valentin_Dobrow(3)[127.0.0.1] cmd fly
+[25.06.2023 | 00:35:38] Valentin_Dobrow(3)[127.0.0.1] cmd getherecar
+[25.06.2023 | 00:35:42] Valentin_Dobrow(3)[127.0.0.1] cmd getherecar
+[25.06.2023 | 00:35:48] Valentin_Dobrow(3)[127.0.0.1] cmd getherecar
+[25.06.2023 | 00:35:50] Valentin_Dobrow(3)[127.0.0.1] cmd getherecar
+[25.06.2023 | 00:36:30] Valentin_Dobrow(3)[127.0.0.1] cmd apanel
+[25.06.2023 | 00:38:22] Valentin_Dobrow(3)[127.0.0.1] dialog 265 | 1 | list 3| [4] Блатеры[1]
+[25.06.2023 | 00:38:23] Valentin_Dobrow(3)[127.0.0.1] dialog 0 | 1 | list -1| 
+[25.06.2023 | 00:38:57] Valentin_Dobrow(3)[127.0.0.1] cmd fill
+[25.06.2023 | 00:39:57] Valentin_Dobrow(3)[127.0.0.1] cmd create
+[25.06.2023 | 00:39:57] Valentin_Dobrow(3)[127.0.0.1] cmd add
+[25.06.2023 | 00:40:00] Valentin_Dobrow(3)[127.0.0.1] cmd addhouse
+[25.06.2023 | 00:55:45] Valentin_Dobrow(3)[127.0.0.1] dialog 2 | 1 | list -1| 28032009
+[25.06.2023 | 00:55:48] Valentin_Dobrow(3)[127.0.0.1] dialog 581 | 0 | list 0| - Переодеться
+[25.06.2023 | 01:00:57] Valentin_Dobrow(3)[127.0.0.1] dialog 2 | 1 | list -1| 28032009
+[25.06.2023 | 01:01:00] Valentin_Dobrow(3)[127.0.0.1] dialog 581 | 0 | list 0| - Переодеться
+[25.06.2023 | 01:02:12] Valentin_Dobrow(3)[127.0.0.1] cmd mm
+[25.06.2023 | 01:02:13] Valentin_Dobrow(3)[127.0.0.1] dialog 722 | 1 | list 0| [1] Действие персонажа
+[25.06.2023 | 01:02:14] Valentin_Dobrow(3)[127.0.0.1] dialog 600 | 1 | list 0| [1] Моя статистика
+[25.06.2023 | 01:02:15] Valentin_Dobrow(3)[127.0.0.1] dialog 235 | 0 | list -1| 
+[25.06.2023 | 01:02:21] Valentin_Dobrow(3)[127.0.0.1] cmd inv
+[25.06.2023 | 01:02:22] Valentin_Dobrow(3)[127.0.0.1] cmd menu
+[25.06.2023 | 01:02:29] Valentin_Dobrow(3)[127.0.0.1] dialog 722 | 1 | list 5| [6] Настройки персонажа
+[25.06.2023 | 01:02:36] Valentin_Dobrow(3)[127.0.0.1] dialog 154 | 0 | list 0| Код безопасности 	| Не привязан
+[25.06.2023 | 01:02:48] Valentin_Dobrow(3)[127.0.0.1] cmd phone
+[25.06.2023 | 01:02:53] Valentin_Dobrow(3)[127.0.0.1] cmd menu
+[25.06.2023 | 01:02:56] Valentin_Dobrow(3)[127.0.0.1] dialog 722 | 1 | list 6| [7] Донат
+[25.06.2023 | 01:02:57] Valentin_Dobrow(3)[127.0.0.1] dialog 222 | 1 | list -1| 
+[25.06.2023 | 01:02:59] Valentin_Dobrow(3)[127.0.0.1] dialog 223 | 1 | list 0| Покупка игровой валюты	1 AZ-монет = 5.000 рублей !
+[25.06.2023 | 01:03:00] Valentin_Dobrow(3)[127.0.0.1] dialog 900 | 0 | list -1| 
+[25.06.2023 | 01:03:05] Valentin_Dobrow(3)[127.0.0.1] cmd givemoney
+[25.06.2023 | 01:03:08] Valentin_Dobrow(3)[127.0.0.1] cmd apanel
+[25.06.2023 | 01:03:09] Valentin_Dobrow(3)[127.0.0.1] dialog 211 | 1 | list -1| 2803
+[25.06.2023 | 01:03:11] Valentin_Dobrow(3)[127.0.0.1] dialog 265 | 1 | list 0| [1] Администрация в сети[1]
+[25.06.2023 | 01:03:28] Valentin_Dobrow(3)[127.0.0.1] cmd apanel
+[25.06.2023 | 01:03:31] Valentin_Dobrow(3)[127.0.0.1] dialog 265 | 1 | list 18| [18] Экономика[8]
+[25.06.2023 | 01:03:31] Valentin_Dobrow(3)[127.0.0.1] dialog 401 | 0 | list 0| [1] Внести изменения в налоги.
+[25.06.2023 | 01:03:57] Valentin_Dobrow(3)[127.0.0.1] cmd jp
+[25.06.2023 | 01:05:03] Valentin_Dobrow(3)[127.0.0.1] cmd jp
+[25.06.2023 | 01:05:30] Valentin_Dobrow(3)[127.0.0.1] cmd jp
+[25.06.2023 | 01:06:06] Valentin_Dobrow(3)[127.0.0.1] cmd apanel
+[25.06.2023 | 01:06:15] Valentin_Dobrow(3)[127.0.0.1] dialog 265 | 1 | list 11| [12] Настройки сервера[6]
+[25.06.2023 | 01:06:17] Valentin_Dobrow(3)[127.0.0.1] dialog 1447 | 1 | list 5| IP Адреса 		[Выкл]
+[25.06.2023 | 01:06:18] Valentin_Dobrow(3)[127.0.0.1] dialog 1447 | 0 | list 5| IP Адреса 		[Вкл]
+[25.06.2023 | 01:06:26] Valentin_Dobrow(3)[127.0.0.1] cmd rconlogin
+[25.06.2023 | 01:06:54] Valentin_Dobrow(3)[127.0.0.1] cmd time
+[25.06.2023 | 01:06:57] Valentin_Dobrow(3)[127.0.0.1] cmd set
+[25.06.2023 | 01:07:02] Valentin_Dobrow(3)[127.0.0.1] cmd settime
+[25.06.2023 | 01:07:04] Valentin_Dobrow(3)[127.0.0.1] cmd settime
+[25.06.2023 | 04:52:29] Valentin_Dobrow(3)[127.0.0.1] dialog 2 | 1 | list -1| 28032009
+[25.06.2023 | 04:54:58] Valentin_Dobrow(3)[127.0.0.1] dialog 2 | 1 | list -1| 28032009
+[25.06.2023 | 04:55:01] Valentin_Dobrow(3)[127.0.0.1] dialog 581 | 0 | list 0| - Переодеться
+[25.06.2023 | 04:56:24] Valentin_Dobrow(3)[127.0.0.1] cmd phone
+[25.06.2023 | 04:56:28] Valentin_Dobrow(3)[127.0.0.1] cmd jp
+[25.06.2023 | 04:56:30] Valentin_Dobrow(3)[127.0.0.1] cmd apanel
+[25.06.2023 | 04:56:31] Valentin_Dobrow(3)[127.0.0.1] dialog 211 | 1 | list -1| 2803
+[25.06.2023 | 04:56:32] Valentin_Dobrow(3)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[25.06.2023 | 04:56:34] Valentin_Dobrow(3)[127.0.0.1] cmd jp
+[25.06.2023 | 04:57:04] Valentin_Dobrow(3)[127.0.0.1] cmd jp
+[25.06.2023 | 04:57:21] Valentin_Dobrow(3)[127.0.0.1] dialog 103 | 1 | list 0| - Купить
+[25.06.2023 | 04:57:24] Valentin_Dobrow(3)[127.0.0.1] dialog 79 | 1 | list 3| - Техника
+[25.06.2023 | 04:57:25] Valentin_Dobrow(3)[127.0.0.1] dialog 14 | 1 | list 0| Мобильный телефон
+[25.06.2023 | 04:57:28] Valentin_Dobrow(3)[127.0.0.1] cmd phone
+[25.06.2023 | 04:57:32] Valentin_Dobrow(3)[127.0.0.1] dialog 0 | 1 | list -1| 
+[25.06.2023 | 04:57:34] Valentin_Dobrow(3)[127.0.0.1] dialog 966 | 0 | list 0| [1] Настройки
+[25.06.2023 | 04:58:07] Valentin_Dobrow(3)[127.0.0.1] dialog 154 | 0 | list 0| Код безопасности 	| Не привязан

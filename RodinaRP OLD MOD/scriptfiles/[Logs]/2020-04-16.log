@@ -1,0 +1,64 @@
+[16.04.2020 | 13:55:21] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| mama123
+[16.04.2020 | 13:55:29] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[16.04.2020 | 13:55:30] Ivan_Raketa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[16.04.2020 | 13:55:31] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[16.04.2020 | 13:55:46] Ivan_Raketa(0)[127.0.0.1] cmd sethp
+[16.04.2020 | 13:56:50] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[16.04.2020 | 13:56:53] Ivan_Raketa(0)[127.0.0.1] cmd setspawn
+[16.04.2020 | 13:56:56] Ivan_Raketa(0)[127.0.0.1] dialog 1781 | 1 | list 3| Установить организацию местом спавна.
+[16.04.2020 | 13:56:57] Ivan_Raketa(0)[127.0.0.1] dialog 1781 | 0 | list 0| Текущее место спавна: Организация
+[16.04.2020 | 13:56:58] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[16.04.2020 | 13:57:13] Ivan_Raketa(0)[127.0.0.1] cmd tpcor
+[16.04.2020 | 13:57:35] Ivan_Raketa(0)[127.0.0.1] cmd tpcor
+[16.04.2020 | 13:57:38] Ivan_Raketa(0)[127.0.0.1] cmd tpcor
+[16.04.2020 | 13:58:48] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[16.04.2020 | 13:59:43] Ivan_Raketa(0)[127.0.0.1] cmd jp
+[16.04.2020 | 14:33:34] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| ьфьф123
+[16.04.2020 | 14:33:36] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| mama123
+[16.04.2020 | 14:33:38] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[16.04.2020 | 14:33:39] Ivan_Raketa(0)[127.0.0.1] dialog 211 | 1 | list -1| 842
+[16.04.2020 | 14:33:41] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[16.04.2020 | 14:33:43] Ivan_Raketa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[16.04.2020 | 14:34:50] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[16.04.2020 | 14:35:00] Ivan_Raketa(0)[127.0.0.1] dialog 1559 | 1 | list 0| Бронзовая рулетка
+[16.04.2020 | 14:35:37] Ivan_Raketa(0)[127.0.0.1] cmd tpcor
+[16.04.2020 | 14:36:14] Ivan_Raketa(0)[127.0.0.1] cmd pikap
+[16.04.2020 | 14:37:04] Ivan_Raketa(0)[127.0.0.1] cmd jp
+[16.04.2020 | 14:38:59] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| mama123
+[16.04.2020 | 14:39:02] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[16.04.2020 | 14:39:03] Ivan_Raketa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[16.04.2020 | 14:39:03] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[16.04.2020 | 14:39:10] Ivan_Raketa(0)[127.0.0.1] cmd tpcor
+[16.04.2020 | 14:41:07] Ivan_Raketa(0)[127.0.0.1] cmd jp
+[16.04.2020 | 14:41:49] Ivan_Raketa(0)[127.0.0.1] cmd tpcor
+[16.04.2020 | 14:43:30] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| mama123
+[16.04.2020 | 14:43:42] Ivan_Raketa(0)[127.0.0.1] cmd tpcor
+[16.04.2020 | 14:43:44] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[16.04.2020 | 14:43:45] Ivan_Raketa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[16.04.2020 | 14:43:46] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[16.04.2020 | 14:43:47] Ivan_Raketa(0)[127.0.0.1] cmd tpcor
+[16.04.2020 | 15:13:15] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| ьфьф123
+[16.04.2020 | 15:13:17] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| mama123
+[16.04.2020 | 15:13:20] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[16.04.2020 | 15:13:23] Ivan_Raketa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[16.04.2020 | 15:13:23] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[16.04.2020 | 15:13:31] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[16.04.2020 | 15:13:33] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 1 | list 8| [9] Все лидеры[7]
+[16.04.2020 | 15:13:35] Ivan_Raketa(0)[127.0.0.1] dialog 115 | 1 | list 15| Russian Mafia: 		Ivan_Raketa
+[16.04.2020 | 15:13:41] Ivan_Raketa(0)[127.0.0.1] cmd makeleader
+[16.04.2020 | 15:13:45] Ivan_Raketa(0)[127.0.0.1] dialog 26 | 1 | list 4| Больница LS
+[16.04.2020 | 15:13:48] Ivan_Raketa(0)[127.0.0.1] cmd makeleader
+[16.04.2020 | 15:13:55] Ivan_Raketa(0)[127.0.0.1] dialog 26 | 1 | list 7| Больница SF
+[16.04.2020 | 15:13:57] Ivan_Raketa(0)[127.0.0.1] cmd makeleader
+[16.04.2020 | 15:14:01] Ivan_Raketa(0)[127.0.0.1] dialog 26 | 0 | list 4| Больница LS
+[16.04.2020 | 15:14:12] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[16.04.2020 | 15:14:23] Ivan_Raketa(0)[127.0.0.1] cmd makeleader
+[16.04.2020 | 15:14:25] Ivan_Raketa(0)[127.0.0.1] cmd makeleader
+[16.04.2020 | 15:14:27] Ivan_Raketa(0)[127.0.0.1] dialog 26 | 1 | list 4| Больница LS
+[16.04.2020 | 15:14:31] Ivan_Raketa(0)[127.0.0.1] cmd sethp
+[16.04.2020 | 15:14:44] Ivan_Raketa(0)[127.0.0.1] cmd makeleader
+[16.04.2020 | 15:14:46] Ivan_Raketa(0)[127.0.0.1] dialog 26 | 1 | list 16| Yakuza
+[16.04.2020 | 15:15:04] Ivan_Raketa(0)[127.0.0.1] cmd makeleader
+[16.04.2020 | 15:15:07] Ivan_Raketa(0)[127.0.0.1] dialog 26 | 1 | list 17| La Cosa Nostra
+[16.04.2020 | 15:15:36] Ivan_Raketa(0)[127.0.0.1] cmd makeleader
+[16.04.2020 | 15:15:37] Ivan_Raketa(0)[127.0.0.1] dialog 26 | 1 | list 5| Правительство

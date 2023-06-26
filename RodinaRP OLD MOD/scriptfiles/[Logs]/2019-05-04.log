@@ -1,0 +1,54 @@
+[4.05.2019 | 20:32:57] Vovan_Linkin(0)[127.0.0.1] dialog 2 | 1 | list -1| 123456
+[4.05.2019 | 20:33:28] Vovan_Linkin(0)[127.0.0.1] cmd apanel
+[4.05.2019 | 20:33:33] Vovan_Linkin(0)[127.0.0.1] dialog 211 | 1 | list -1| 6428
+[4.05.2019 | 20:33:35] Vovan_Linkin(0)[127.0.0.1] cmd apanel
+[4.05.2019 | 20:33:46] Vovan_Linkin(0)[127.0.0.1] dialog 211 | 1 | list -1| 6482
+[4.05.2019 | 20:33:47] Vovan_Linkin(0)[127.0.0.1] cmd apanel
+[4.05.2019 | 20:33:52] Vovan_Linkin(0)[127.0.0.1] dialog 211 | 1 | list -1| 6824
+[4.05.2019 | 20:34:15] Vovan_Linkin(0)[127.0.0.1] cmd apanel
+[4.05.2019 | 20:34:18] Vovan_Linkin(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[4.05.2019 | 20:34:21] Vovan_Linkin(0)[127.0.0.1] dialog 265 | 1 | list 27| [27] Настройки Анти DM[6]
+[4.05.2019 | 20:34:22] Vovan_Linkin(0)[127.0.0.1] dialog 255 | 0 | list 0| Банк
+[4.05.2019 | 20:34:30] Vovan_Linkin(0)[127.0.0.1] cmd ahelp
+[4.05.2019 | 20:34:33] Vovan_Linkin(0)[127.0.0.1] cmd ahelp
+[4.05.2019 | 20:34:39] Vovan_Linkin(0)[127.0.0.1] dialog 0 | 1 | list -1| 
+[4.05.2019 | 20:34:41] Vovan_Linkin(0)[127.0.0.1] cmd ahelp
+[4.05.2019 | 20:34:57] Vovan_Linkin(0)[127.0.0.1] dialog 0 | 1 | list -1| 
+[4.05.2019 | 20:34:59] Vovan_Linkin(0)[127.0.0.1] cmd ahelp
+[4.05.2019 | 20:35:06] Vovan_Linkin(0)[127.0.0.1] dialog 0 | 1 | list -1| 
+[4.05.2019 | 20:35:09] Vovan_Linkin(0)[127.0.0.1] cmd makeleader
+[4.05.2019 | 20:35:11] Vovan_Linkin(0)[127.0.0.1] cmd makeleader
+[4.05.2019 | 20:35:12] Vovan_Linkin(0)[127.0.0.1] dialog 26 | 1 | list 0| Полиция ЛС
+[4.05.2019 | 20:35:17] Vovan_Linkin(0)[127.0.0.1] cmd lmenu
+[4.05.2019 | 20:35:20] Vovan_Linkin(0)[127.0.0.1] dialog 1214 | 1 | list 0| 1. Пригласить в организацию
+[4.05.2019 | 20:35:21] Vovan_Linkin(0)[127.0.0.1] dialog 1216 | 0 | list -1| 
+[4.05.2019 | 20:35:22] Vovan_Linkin(0)[127.0.0.1] cmd lmenu
+[4.05.2019 | 20:35:23] Vovan_Linkin(0)[127.0.0.1] dialog 1214 | 1 | list 1| 2. Игроки онлайн
+[4.05.2019 | 20:35:24] Vovan_Linkin(0)[127.0.0.1] dialog 1215 | 0 | list 0| Vovan_Linkin
+[4.05.2019 | 20:35:25] Vovan_Linkin(0)[127.0.0.1] cmd lmenu
+[4.05.2019 | 20:35:26] Vovan_Linkin(0)[127.0.0.1] dialog 1214 | 1 | list 2| 3. Перевод
+[4.05.2019 | 20:35:28] Vovan_Linkin(0)[127.0.0.1] dialog 1213 | 0 | list -1| 
+[4.05.2019 | 20:35:55] Vovan_Linkin(0)[127.0.0.1] cmd tp
+[4.05.2019 | 20:35:55] Vovan_Linkin(0)[127.0.0.1] dialog 1987 | 1 | list 0| Государственные службы
+[4.05.2019 | 20:35:55] Vovan_Linkin(0)[127.0.0.1] dialog 1988 | 1 | list 0| Goverment
+[4.05.2019 | 20:36:10] Vovan_Linkin(0)[127.0.0.1] cmd sethp
+[4.05.2019 | 20:36:23] Vovan_Linkin(0)[127.0.0.1] cmd makeleader
+[4.05.2019 | 20:36:27] Vovan_Linkin(0)[127.0.0.1] dialog 26 | 1 | list 5| Правительство
+[4.05.2019 | 20:36:34] Vovan_Linkin(0)[127.0.0.1] cmd tp
+[4.05.2019 | 20:36:34] Vovan_Linkin(0)[127.0.0.1] dialog 1987 | 1 | list 0| Государственные службы
+[4.05.2019 | 20:36:34] Vovan_Linkin(0)[127.0.0.1] dialog 1988 | 1 | list 0| Goverment
+[4.05.2019 | 20:36:41] Vovan_Linkin(0)[127.0.0.1] cmd tp
+[4.05.2019 | 20:36:41] Vovan_Linkin(0)[127.0.0.1] dialog 1987 | 1 | list 0| Государственные службы
+[4.05.2019 | 20:36:41] Vovan_Linkin(0)[127.0.0.1] dialog 1988 | 1 | list 0| Goverment
+[4.05.2019 | 20:37:03] Vovan_Linkin(0)[127.0.0.1] cmd givegun
+[4.05.2019 | 20:37:07] Vovan_Linkin(0)[127.0.0.1] dialog 0 | 1 | list -1| 
+[4.05.2019 | 20:37:08] Vovan_Linkin(0)[127.0.0.1] dialog 0 | 0 | list -1| 
+[4.05.2019 | 20:37:09] Vovan_Linkin(0)[127.0.0.1] dialog 0 | 0 | list -1| 
+[4.05.2019 | 20:37:10] Vovan_Linkin(0)[127.0.0.1] dialog 0 | 0 | list -1| 
+[4.05.2019 | 20:37:12] Vovan_Linkin(0)[127.0.0.1] dialog 0 | 1 | list -1| 
+[4.05.2019 | 20:37:13] Vovan_Linkin(0)[127.0.0.1] dialog 0 | 0 | list -1| 
+[4.05.2019 | 20:37:14] Vovan_Linkin(0)[127.0.0.1] dialog 0 | 0 | list -1| 
+[4.05.2019 | 20:37:35] Vovan_Linkin(0)[127.0.0.1] cmd tp
+[4.05.2019 | 20:37:36] Vovan_Linkin(0)[127.0.0.1] dialog 1987 | 1 | list 0| Государственные службы
+[4.05.2019 | 20:37:37] Vovan_Linkin(0)[127.0.0.1] dialog 1988 | 1 | list 0| Goverment
+[4.05.2019 | 20:39:43] Vovan_Linkin(0)[127.0.0.1] dialog 230 | 1 | list -1| 

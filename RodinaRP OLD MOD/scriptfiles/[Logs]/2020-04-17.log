@@ -1,0 +1,75 @@
+[17.04.2020 | 14:07:18] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| mama123
+[17.04.2020 | 14:07:20] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[17.04.2020 | 14:07:22] Ivan_Raketa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[17.04.2020 | 14:07:23] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[17.04.2020 | 14:07:27] Ivan_Raketa(0)[127.0.0.1] cmd setspawn
+[17.04.2020 | 14:07:28] Ivan_Raketa(0)[127.0.0.1] dialog 1781 | 1 | list 4| Установить вокзал местом спавна.
+[17.04.2020 | 14:07:28] Ivan_Raketa(0)[127.0.0.1] dialog 1781 | 0 | list 0| Текущее место спавна: Вокзал
+[17.04.2020 | 14:07:30] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[17.04.2020 | 14:07:47] Ivan_Raketa(0)[127.0.0.1] cmd jp
+[17.04.2020 | 14:07:58] Ivan_Raketa(0)[127.0.0.1] cmd addbiz
+[17.04.2020 | 14:08:07] Ivan_Raketa(0)[127.0.0.1] dialog 9321 | 0 | list 3| Аренда автомобилей 
+[17.04.2020 | 14:08:11] Ivan_Raketa(0)[127.0.0.1] cmd fill
+[17.04.2020 | 14:08:16] Ivan_Raketa(0)[127.0.0.1] cmd add
+[17.04.2020 | 14:08:24] Ivan_Raketa(0)[127.0.0.1] cmd addbiz
+[17.04.2020 | 14:08:31] Ivan_Raketa(0)[127.0.0.1] dialog 9321 | 1 | list 2| Магазин 'АЗС' 
+[17.04.2020 | 14:08:33] Ivan_Raketa(0)[127.0.0.1] cmd addbiz
+[17.04.2020 | 14:08:38] Ivan_Raketa(0)[127.0.0.1] dialog 9321 | 1 | list 7| Предприятие 
+[17.04.2020 | 14:08:53] Ivan_Raketa(0)[127.0.0.1] cmd plveh
+[17.04.2020 | 14:08:59] Ivan_Raketa(0)[127.0.0.1] cmd plveh
+[17.04.2020 | 14:10:58] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| mama123
+[17.04.2020 | 14:11:03] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[17.04.2020 | 14:11:04] Ivan_Raketa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[17.04.2020 | 14:11:04] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[17.04.2020 | 14:11:19] Ivan_Raketa(0)[127.0.0.1] cmd plveh
+[17.04.2020 | 14:12:18] Ivan_Raketa(0)[127.0.0.1] cmd plveh
+[17.04.2020 | 14:12:30] Ivan_Raketa(0)[127.0.0.1] cmd plveh
+[17.04.2020 | 14:17:07] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| mama123
+[17.04.2020 | 14:17:28] Ivan_Raketa(0)[127.0.0.1] cmd makeleader
+[17.04.2020 | 14:17:31] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[17.04.2020 | 14:17:32] Ivan_Raketa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[17.04.2020 | 14:17:33] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[17.04.2020 | 14:17:36] Ivan_Raketa(0)[127.0.0.1] cmd makeleader
+[17.04.2020 | 14:17:39] Ivan_Raketa(0)[127.0.0.1] dialog 26 | 1 | list 16| Yakuza
+[17.04.2020 | 14:17:43] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[17.04.2020 | 14:17:47] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[17.04.2020 | 14:17:48] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 1 | list 8| [9] Все лидеры[7]
+[17.04.2020 | 14:17:51] Ivan_Raketa(0)[127.0.0.1] dialog 115 | 1 | list 5| Правительство: 		Ivan_Raketa
+[17.04.2020 | 14:17:53] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[17.04.2020 | 14:17:55] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 1 | list 8| [9] Все лидеры[7]
+[17.04.2020 | 14:17:58] Ivan_Raketa(0)[127.0.0.1] dialog 115 | 1 | list 7| Больница SF: 		Ivan_Raketa
+[17.04.2020 | 14:17:59] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[17.04.2020 | 14:18:02] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 1 | list 8| [9] Все лидеры[7]
+[17.04.2020 | 14:18:06] Ivan_Raketa(0)[127.0.0.1] dialog 115 | 1 | list 17| La Cosa Nostra: 		Ivan_Raketa
+[17.04.2020 | 14:18:07] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[17.04.2020 | 14:18:09] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 1 | list 8| [9] Все лидеры[7]
+[17.04.2020 | 14:18:11] Ivan_Raketa(0)[127.0.0.1] dialog 115 | 1 | list 4| Больница LS: 		Ivan_Raketa
+[17.04.2020 | 14:18:12] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[17.04.2020 | 14:18:13] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 1 | list 8| [9] Все лидеры[7]
+[17.04.2020 | 14:18:16] Ivan_Raketa(0)[127.0.0.1] dialog 115 | 0 | list 0| Полиция ЛС: 		None
+[17.04.2020 | 14:18:19] Ivan_Raketa(0)[127.0.0.1] cmd setspawn
+[17.04.2020 | 14:18:20] Ivan_Raketa(0)[127.0.0.1] dialog 1781 | 1 | list 3| Установить организацию местом спавна.
+[17.04.2020 | 14:18:25] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[17.04.2020 | 14:18:32] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[17.04.2020 | 14:18:34] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 1 | list 8| [9] Все лидеры[7]
+[17.04.2020 | 14:18:35] Ivan_Raketa(0)[127.0.0.1] dialog 115 | 1 | list 16| Yakuza: 		Ivan_Raketa
+[17.04.2020 | 14:18:40] Ivan_Raketa(0)[127.0.0.1] cmd makeleader
+[17.04.2020 | 14:18:41] Ivan_Raketa(0)[127.0.0.1] dialog 26 | 1 | list 16| Yakuza
+[17.04.2020 | 14:18:59] Ivan_Raketa(0)[127.0.0.1] cmd setspawn
+[17.04.2020 | 14:19:00] Ivan_Raketa(0)[127.0.0.1] dialog 1781 | 1 | list 4| Установить вокзал местом спавна.
+[17.04.2020 | 14:19:00] Ivan_Raketa(0)[127.0.0.1] dialog 1781 | 0 | list 0| Текущее место спавна: Вокзал
+[17.04.2020 | 14:19:02] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[17.04.2020 | 14:19:19] Ivan_Raketa(0)[127.0.0.1] cmd tp
+[17.04.2020 | 14:19:20] Ivan_Raketa(0)[127.0.0.1] dialog 1987 | 1 | list 3| Автосалоны
+[17.04.2020 | 14:19:21] Ivan_Raketa(0)[127.0.0.1] dialog 1992 | 1 | list 0| Autosalon Los - Santos
+[17.04.2020 | 14:19:26] Ivan_Raketa(0)[127.0.0.1] cmd jp
+[17.04.2020 | 14:19:41] Ivan_Raketa(0)[127.0.0.1] dialog 11 | 1 | list -1| 
+[17.04.2020 | 14:19:42] Ivan_Raketa(0)[127.0.0.1] dialog 0 | 1 | list -1| 
+[17.04.2020 | 14:19:44] Ivan_Raketa(0)[127.0.0.1] cmd key
+[17.04.2020 | 14:20:10] Ivan_Raketa(0)[127.0.0.1] cmd price
+[17.04.2020 | 14:20:14] Ivan_Raketa(0)[127.0.0.1] cmd sellcarto
+[17.04.2020 | 14:20:32] Ivan_Raketa(0)[127.0.0.1] cmd sellcarto
+[17.04.2020 | 14:20:36] Ivan_Raketa(0)[127.0.0.1] cmd sellcarto
+[17.04.2020 | 14:20:42] Ivan_Raketa(0)[127.0.0.1] cmd sellcarto
+[17.04.2020 | 14:20:54] Ivan_Raketa(0)[127.0.0.1] cmd sellcarto
+[17.04.2020 | 14:20:59] Ivan_Raketa(0)[127.0.0.1] cmd sellcarto

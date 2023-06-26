@@ -1,0 +1,46 @@
+[20.04.2020 | 18:57:37] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| mama123
+[20.04.2020 | 18:57:53] Ivan_Raketa(0)[127.0.0.1] cmd makeleader
+[20.04.2020 | 18:57:57] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[20.04.2020 | 18:57:59] Ivan_Raketa(0)[127.0.0.1] dialog 211 | 1 | list -1| 123456
+[20.04.2020 | 18:58:01] Ivan_Raketa(0)[127.0.0.1] cmd makeleader
+[20.04.2020 | 18:58:04] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[20.04.2020 | 18:58:06] Ivan_Raketa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[20.04.2020 | 18:58:06] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[20.04.2020 | 18:58:09] Ivan_Raketa(0)[127.0.0.1] cmd makeleader
+[20.04.2020 | 18:58:12] Ivan_Raketa(0)[127.0.0.1] dialog 26 | 1 | list 16| Yakuza
+[20.04.2020 | 18:58:17] Ivan_Raketa(0)[127.0.0.1] cmd makeleader
+[20.04.2020 | 18:58:19] Ivan_Raketa(0)[127.0.0.1] dialog 26 | 1 | list 17| La Cosa Nostra
+[20.04.2020 | 18:58:48] Ivan_Raketa(0)[127.0.0.1] cmd tp
+[20.04.2020 | 18:58:49] Ivan_Raketa(0)[127.0.0.1] dialog 1987 | 1 | list 0| Государственные службы
+[20.04.2020 | 18:58:50] Ivan_Raketa(0)[127.0.0.1] dialog 1988 | 1 | list 0| Goverment
+[20.04.2020 | 18:59:05] Ivan_Raketa(0)[127.0.0.1] cmd hps
+[20.04.2020 | 18:59:08] Ivan_Raketa(0)[127.0.0.1] cmd gps
+[20.04.2020 | 18:59:17] Ivan_Raketa(0)[127.0.0.1] dialog 705 | 1 | list 0| - Важные места
+[20.04.2020 | 18:59:17] Ivan_Raketa(0)[127.0.0.1] dialog 706 | 1 | list 0| [LS] Мэрия
+[20.04.2020 | 18:59:38] Ivan_Raketa(0)[127.0.0.1] cmd plveh
+[20.04.2020 | 19:03:29] Ivan_Raketa(0)[127.0.0.1] cmd plveh
+[20.04.2020 | 19:05:01] Ivan_Raketa(0)[127.0.0.1] cmd plveh
+[20.04.2020 | 19:23:14] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| ЬФЬФ123
+[20.04.2020 | 19:23:16] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| MAMA123
+[20.04.2020 | 19:23:23] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| 
+[20.04.2020 | 19:23:26] Ivan_Raketa(0)[127.0.0.1] dialog 2 | 1 | list -1| mama123
+[20.04.2020 | 19:23:30] Ivan_Raketa(0)[127.0.0.1] cmd apanel
+[20.04.2020 | 19:23:32] Ivan_Raketa(0)[127.0.0.1] dialog 211 | 1 | list -1| 6842
+[20.04.2020 | 19:23:32] Ivan_Raketa(0)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[20.04.2020 | 19:23:37] Ivan_Raketa(0)[127.0.0.1] cmd makeleader
+[20.04.2020 | 19:23:39] Ivan_Raketa(0)[127.0.0.1] dialog 26 | 1 | list 5| Правительство
+[20.04.2020 | 19:24:23] Ivan_Raketa(0)[127.0.0.1] cmd makeleader
+[20.04.2020 | 19:24:26] Ivan_Raketa(0)[127.0.0.1] dialog 26 | 1 | list 7| Больница SF
+[20.04.2020 | 19:24:29] Ivan_Raketa(0)[127.0.0.1] cmd makeleader
+[20.04.2020 | 19:24:35] Ivan_Raketa(0)[127.0.0.1] dialog 26 | 1 | list 3| Полиция СФ
+[20.04.2020 | 19:24:38] Ivan_Raketa(0)[127.0.0.1] dialog 581 | 1 | list 0| - Переодеться
+[20.04.2020 | 19:24:40] Ivan_Raketa(0)[127.0.0.1] dialog 7551 | 1 | list 1| - Переодется в S.W.A.T. форму.
+[20.04.2020 | 19:24:41] Ivan_Raketa(0)[127.0.0.1] dialog 0 | 1 | list -1| 
+[20.04.2020 | 19:25:19] Ivan_Raketa(0)[127.0.0.1] cmd agl
+[20.04.2020 | 19:25:28] Ivan_Raketa(0)[127.0.0.1] cmd m
+[20.04.2020 | 19:25:32] Ivan_Raketa(0)[127.0.0.1] cmd m
+[20.04.2020 | 19:25:45] Ivan_Raketa(0)[127.0.0.1] cmd setspawn
+[20.04.2020 | 19:25:46] Ivan_Raketa(0)[127.0.0.1] dialog 1781 | 1 | list 4| Установить вокзал местом спавна.
+[20.04.2020 | 19:25:47] Ivan_Raketa(0)[127.0.0.1] dialog 1781 | 0 | list 0| Текущее место спавна: Вокзал
+[20.04.2020 | 19:25:48] Ivan_Raketa(0)[127.0.0.1] cmd spawn
+[20.04.2020 | 19:25:54] Ivan_Raketa(0)[127.0.0.1] cmd jp
