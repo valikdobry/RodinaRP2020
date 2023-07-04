@@ -1,0 +1,55 @@
+[27.06.2023 | 04:21:12] Valentin_Dobrow(3)[127.0.0.1] dialog 2 | 1 | list -1| 28032009
+[27.06.2023 | 04:22:06] Valentin_Dobrow(3)[127.0.0.1] dialog 2 | 1 | list -1| 28032009
+[27.06.2023 | 04:22:44] Valentin_Dobrow(3)[127.0.0.1] dialog 2 | 1 | list -1| 28032009
+[27.06.2023 | 04:24:41] Valentin_Dobrow(3)[127.0.0.1] dialog 2 | 1 | list -1| 21332
+[27.06.2023 | 04:28:30] Valentin_Dobrow(3)[127.0.0.1] dialog 2 | 1 | list -1| 28032009
+[27.06.2023 | 04:29:10] Valentin_Dobrow(3)[127.0.0.1] cmd menu
+[27.06.2023 | 04:29:11] Valentin_Dobrow(3)[127.0.0.1] dialog 722 | 0 | list 0| [1] Действие персонажа
+[27.06.2023 | 04:29:13] Valentin_Dobrow(3)[127.0.0.1] cmd mm
+[27.06.2023 | 04:29:14] Valentin_Dobrow(3)[127.0.0.1] dialog 722 | 0 | list 0| [1] Действие персонажа
+[27.06.2023 | 04:29:17] Valentin_Dobrow(3)[127.0.0.1] cmd gps
+[27.06.2023 | 04:29:20] Valentin_Dobrow(3)[127.0.0.1] dialog 705 | 1 | list 20| - Родина Плей
+[27.06.2023 | 04:29:22] Valentin_Dobrow(3)[127.0.0.1] cmd tp
+[27.06.2023 | 04:29:25] Valentin_Dobrow(3)[127.0.0.1] cmd apanel
+[27.06.2023 | 04:29:26] Valentin_Dobrow(3)[127.0.0.1] dialog 211 | 1 | list -1| 2803
+[27.06.2023 | 04:29:26] Valentin_Dobrow(3)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[27.06.2023 | 04:31:26] Valentin_Dobrow(3)[127.0.0.1] cmd jp
+[27.06.2023 | 04:31:42] Valentin_Dobrow(3)[127.0.0.1] cmd gps
+[27.06.2023 | 04:31:46] Valentin_Dobrow(3)[127.0.0.1] dialog 705 | 1 | list 1| - Работы для новичков
+[27.06.2023 | 04:31:46] Valentin_Dobrow(3)[127.0.0.1] dialog 707 | 1 | list 0| [1] Ферма
+[27.06.2023 | 04:33:47] Valentin_Dobrow(3)[127.0.0.1] cmd jp
+[27.06.2023 | 04:34:27] Valentin_Dobrow(3)[127.0.0.1] dialog 3919 | 1 | list 2| - Устроится на работу начального фермера
+[27.06.2023 | 04:34:27] Valentin_Dobrow(3)[127.0.0.1] dialog 1234 | 1 | list -1| 
+[27.06.2023 | 04:34:34] Valentin_Dobrow(3)[127.0.0.1] dialog 3919 | 1 | list 1| - Переодеться и начать/закончить работу
+[27.06.2023 | 04:35:08] Valentin_Dobrow(3)[127.0.0.1] cmd jp
+[27.06.2023 | 04:44:51] Valentin_Dobrow(3)[127.0.0.1] dialog 2 | 1 | list -1| 28032009
+[27.06.2023 | 04:44:58] Valentin_Dobrow(3)[127.0.0.1] cmd apanel
+[27.06.2023 | 04:45:00] Valentin_Dobrow(3)[127.0.0.1] dialog 211 | 1 | list -1| 28032009
+[27.06.2023 | 04:45:03] Valentin_Dobrow(3)[127.0.0.1] cmd apanel
+[27.06.2023 | 04:45:04] Valentin_Dobrow(3)[127.0.0.1] dialog 211 | 1 | list -1| 2803
+[27.06.2023 | 04:45:05] Valentin_Dobrow(3)[127.0.0.1] dialog 265 | 0 | list 0| [1] Администрация в сети[1]
+[27.06.2023 | 04:45:14] Valentin_Dobrow(3)[127.0.0.1] cmd apanel
+[27.06.2023 | 04:45:21] Valentin_Dobrow(3)[127.0.0.1] dialog 265 | 1 | list 11| [12] Настройки сервера[6]
+[27.06.2023 | 04:45:22] Valentin_Dobrow(3)[127.0.0.1] dialog 1447 | 0 | list 0| X2 EXP			[Выкл]
+[27.06.2023 | 04:45:23] Valentin_Dobrow(3)[127.0.0.1] cmd apanel
+[27.06.2023 | 04:45:55] Valentin_Dobrow(3)[127.0.0.1] dialog 265 | 0 | list 21| [21] Администрация сервера[8]
+[27.06.2023 | 04:45:57] Valentin_Dobrow(3)[127.0.0.1] cmd newapanel
+[27.06.2023 | 04:46:12] Valentin_Dobrow(3)[127.0.0.1] dialog 1338 | 1 | list 29| [5] Распродажа ВИРТОВ: [ВЫКЛЮЧЕНО]
+[27.06.2023 | 04:46:13] Valentin_Dobrow(3)[127.0.0.1] cmd newapanel
+[27.06.2023 | 04:46:15] Valentin_Dobrow(3)[127.0.0.1] dialog 1338 | 1 | list 28| [5] Система репорта: [Старая]
+[27.06.2023 | 04:46:16] Valentin_Dobrow(3)[127.0.0.1] cmd newapanel
+[27.06.2023 | 04:46:17] Valentin_Dobrow(3)[127.0.0.1] dialog 1338 | 1 | list 27| [4] Авто респаун транспорта: [Откл]
+[27.06.2023 | 04:46:18] Valentin_Dobrow(3)[127.0.0.1] cmd newapanel
+[27.06.2023 | 04:46:20] Valentin_Dobrow(3)[127.0.0.1] dialog 1338 | 1 | list 26| [5] Античит миниган: [Вкл]
+[27.06.2023 | 04:46:20] Valentin_Dobrow(3)[127.0.0.1] cmd newapanel
+[27.06.2023 | 04:46:22] Valentin_Dobrow(3)[127.0.0.1] dialog 1338 | 1 | list 22| [1] Статистика денег
+[27.06.2023 | 04:46:57] Valentin_Dobrow(3)[127.0.0.1] cmd apanel
+[27.06.2023 | 04:47:00] Valentin_Dobrow(3)[127.0.0.1] dialog 265 | 0 | list 21| [21] Администрация сервера[8]
+[27.06.2023 | 04:54:11] Valentin_Dobrow(3)[127.0.0.1] dialog 2 | 1 | list -1| 28032009
+[27.06.2023 | 04:54:25] Valentin_Dobrow(3)[127.0.0.1] cmd veh
+[27.06.2023 | 04:54:27] Valentin_Dobrow(3)[127.0.0.1] cmd apanel
+[27.06.2023 | 04:54:28] Valentin_Dobrow(3)[127.0.0.1] dialog 211 | 1 | list -1| 2803
+[27.06.2023 | 04:54:30] Valentin_Dobrow(3)[127.0.0.1] dialog 265 | 0 | list 21| [21] Администрация сервера[7]
+[27.06.2023 | 04:54:31] Valentin_Dobrow(3)[127.0.0.1] cmd apanel
+[27.06.2023 | 04:54:35] Valentin_Dobrow(3)[127.0.0.1] dialog 265 | 0 | list 21| [21] Администрация сервера[7]
+[27.06.2023 | 04:54:36] Valentin_Dobrow(3)[127.0.0.1] cmd veh

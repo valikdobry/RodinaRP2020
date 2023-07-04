@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?import javafx.scene.*?><?import javafx.collections.*?><?import javafx.scene.layout.*?><?import javafx.scene.control.*?><?import javafx.scene.text.*?><?import javafx.scene.image.*?><?import javafx.scene.shape.*?><?import javafx.scene.paint.*?><?import javafx.scene.web.*?><?import javafx.geometry.*?><?import java.lang.*?><?import org.develnext.jphp.ext.javafx.classes.data.*?><?import org.develnext.jphp.ext.javafx.support.*?><?import org.develnext.jphp.ext.javafx.support.control.*?><?import org.develnext.jphp.ext.game.support.*?><AnchorPane xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" AnchorPane.bottomAnchor="0" AnchorPane.leftAnchor="0" AnchorPane.rightAnchor="0" AnchorPane.topAnchor="0" focusTraversable="false" id="" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="128" prefWidth="400" styleClass="">
+  <children>
+    <TextField alignment="CENTER" editable="true" focusTraversable="true" id="edit" layoutX="0" layoutY="0" opacity="0.54636503712004" prefColumnCount="12" prefHeight="49" prefWidth="328" promptText="Введите Ваш Nick_Name" styleClass="text-input text-field " text="">
+      <font>
+        <Font name="System Bold" size="24"/>
+      </font>
+    </TextField>
+    <Data cursor="DEFAULT" enabled="1" id="data-edit" visible="1"/>
+    <FlatButton alignment="CENTER" borderRadius="13" clickColor="#334db3" color="#6680e6" contentDisplay="LEFT" ellipsisString="..." focusTraversable="true" graphicTextGap="4" hoverColor="#4d66cc" id="buttonAlt" layoutX="88" layoutY="64" prefHeight="44" prefWidth="184" styleClass="x-flat-button " text="ИГРАТЬ" textAlignment="CENTER" textFill="#ffffff" underline="false" wrapText="false">
+      <font>
+        <Font name="Arial Black" size="30"/>
+      </font>
+    </FlatButton>
+    <Data cursor="HAND" enabled="1" id="data-buttonAlt" visible="1"/>
+    <FlatButton alignment="CENTER" borderRadius="20" clickColor="#334db3" color="#6680e6" contentDisplay="LEFT" ellipsisString="..." focusTraversable="true" graphicTextGap="4" hoverColor="#4d66cc" id="button6" layoutX="360" layoutY="0" prefHeight="40" prefWidth="40" styleClass="x-flat-button " text="X" textAlignment="CENTER" textFill="#334db3" underline="false" wrapText="false">
+      <font>
+        <Font name="Arial Black" size="21"/>
+      </font>
+    </FlatButton>
+    <Data cursor="DEFAULT" enabled="1" id="data-button6" visible="1"/>
+  </children>
+</AnchorPane>
